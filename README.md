@@ -1,5 +1,4 @@
 # Store App
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andersonrodrigues14/To-Do-List/blob/main/LICENSE) 
 
 # Sobre o projeto
 
