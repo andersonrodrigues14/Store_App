@@ -8,7 +8,8 @@ A aplicação consiste em um aplicativo de uma loja contendo listagem de produto
 
 ## Demonstração do Aplicativo
 
-https://github.com/user-attachments/assets/0ed386be-c739-4911-af8a-ad6bb9ad64e7
+
+https://github.com/user-attachments/assets/aa0840e6-d1bc-4c2a-b2a3-3ffac3b8a60e
 
 
 # Tecnologias utilizadas
