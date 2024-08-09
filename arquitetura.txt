@@ -1,0 +1,9 @@
+Stack (navegação):
+- Index
+- (tabs)
+    - Inibio
+    - Categorias (Stack):
+        - Listagem de Categorias
+        - Listagem de produtos de UMA categoria
+    - Sobre Mim
+- Produto Único
